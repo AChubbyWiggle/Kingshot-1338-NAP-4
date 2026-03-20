@@ -6,17 +6,17 @@ NAP 4 is a non-aggression pact between alliances **AVG**, **DVS**, **ECH**, and 
 
 ## Main City and Farm Rules
 
-- No main city hits between NAP alliances; a main city attack counts as a NAP breach for the whole alliance until the offending player is kicked and banned from rejoining.  
+- No Tile hits between NAP alliances; a main city attack counts as a NAP breach for the whole alliance until the offending player is kicked and banned from rejoining.  
 - Farm protection applies only if the farm alliance is explicitly declared; undeclared farm tags are not covered by NAP.  
 - Name changes for protected farms must be notified 24 hours in advance.  
-- If you hit a protected farm, you must repay all resources lost (including troop healings) plus 50%.  
+- If you hit a protected farm, you must repay all resources lost (including troop healings/losses) plus 50%.  
 - If the farm alliance is not declared, then it is not a farm or covered by the NAP.
 
 ## Sanctuaries, Forts, and Recruiting
 
 - We can split 3 sanctuaries (**static**) each.  
 - 1 **static** fortress each.  
-- No recruiting among the 3 NAP alliances.  
+- No recruiting among the 4 NAP alliances.  
 
 - Alliances will split 3 **static** sanctuaries and 1 static fortress, and each alliance keeps to its assigned sanctuaries/forts for the season (no rotating).  
 - There is coordination on which specific sanctuary numbers each alliance takes so sign-ups do not overlap.
@@ -49,4 +49,4 @@ NAP 4 is a non-aggression pact between alliances **AVG**, **DVS**, **ECH**, and 
 - If 1 alliance is found to be guilty of breaching NAP, the remaining alliances are free to attack.  
 - Spying in other alliances is considered a hostile action and is a breach of NAP rules.
 
-- Any questions feel free to speak with your alliance leader or AChubbyWiggle - player ID: 196906612
+## Any questions feel free to speak with your alliance leader or AChubbyWiggle - player ID: 196906612
